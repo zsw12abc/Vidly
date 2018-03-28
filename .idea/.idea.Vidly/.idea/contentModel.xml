@@ -14,6 +14,8 @@
         <e p="ApplicationInsights.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Content" t="Include">
+          <e p="bootstrap-lumen.css" t="Include" />
+          <e p="bootstrap-lumen.min.css" t="Include" />
           <e p="bootstrap.css" t="Include" />
           <e p="bootstrap.min.css" t="Include" />
           <e p="Site.css" t="Include" />
