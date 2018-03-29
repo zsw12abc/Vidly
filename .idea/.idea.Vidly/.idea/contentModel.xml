@@ -9,19 +9,22 @@
         <e p="App_Start" t="Include">
           <e p="BundleConfig.cs" t="Include" />
           <e p="FilterConfig.cs" t="Include" />
+          <e p="IdentityConfig.cs" t="Include" />
           <e p="RouteConfig.cs" t="Include" />
+          <e p="Startup.Auth.cs" t="Include" />
         </e>
-        <e p="ApplicationInsights.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Content" t="Include">
           <e p="bootstrap-lumen.css" t="Include" />
-          <e p="bootstrap-lumen.min.css" t="Include" />
           <e p="bootstrap.css" t="Include" />
           <e p="bootstrap.min.css" t="Include" />
           <e p="Site.css" t="Include" />
         </e>
         <e p="Controllers" t="Include">
+          <e p="AccountController.cs" t="Include" />
+          <e p="CustomersController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
+          <e p="ManageController.cs" t="Include" />
           <e p="MoviesController.cs" t="Include" />
         </e>
         <e p="favicon.ico" t="Include" />
@@ -34,15 +37,20 @@
         <e p="Global.asax" t="Include" />
         <e p="Global.asax.cs" t="Include" />
         <e p="Models" t="Include">
+          <e p="AccountViewModels.cs" t="Include" />
           <e p="Customer.cs" t="Include" />
+          <e p="IdentityModels.cs" t="Include" />
+          <e p="ManageViewModels.cs" t="Include" />
           <e p="Movie.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
+        <e p="Project_Readme.html" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="_references.js" t="Include" />
           <e p="bootstrap.js" t="Include" />
           <e p="bootstrap.min.js" t="Include" />
           <e p="jquery-1.10.2.intellisense.js" t="Include" />
@@ -58,24 +66,54 @@
           <e p="respond.js" t="Include" />
           <e p="respond.min.js" t="Include" />
         </e>
+        <e p="Startup.cs" t="Include" />
         <e p="Vidly.csproj" t="IncludeRecursive" />
         <e p="ViewModels" t="Include">
           <e p="RandomMovieViewModel.cs" t="Include" />
         </e>
         <e p="Views" t="Include">
           <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Account" t="Include">
+            <e p="_ExternalLoginsListPartial.cshtml" t="Include" />
+            <e p="ConfirmEmail.cshtml" t="Include" />
+            <e p="ExternalLoginConfirmation.cshtml" t="Include" />
+            <e p="ExternalLoginFailure.cshtml" t="Include" />
+            <e p="ForgotPassword.cshtml" t="Include" />
+            <e p="ForgotPasswordConfirmation.cshtml" t="Include" />
+            <e p="Login.cshtml" t="Include" />
+            <e p="Register.cshtml" t="Include" />
+            <e p="ResetPassword.cshtml" t="Include" />
+            <e p="ResetPasswordConfirmation.cshtml" t="Include" />
+            <e p="SendCode.cshtml" t="Include" />
+            <e p="VerifyCode.cshtml" t="Include" />
+          </e>
+          <e p="Customers" t="Include">
+            <e p="Details.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
           <e p="Home" t="Include">
             <e p="About.cshtml" t="Include" />
             <e p="Contact.cshtml" t="Include" />
             <e p="Index.cshtml" t="Include" />
           </e>
+          <e p="Manage" t="Include">
+            <e p="AddPhoneNumber.cshtml" t="Include" />
+            <e p="ChangePassword.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="ManageLogins.cshtml" t="Include" />
+            <e p="SetPassword.cshtml" t="Include" />
+            <e p="VerifyPhoneNumber.cshtml" t="Include" />
+          </e>
           <e p="Movies" t="Include">
+            <e p="Index.cshtml" t="Include" />
             <e p="Random.cshtml" t="Include" />
           </e>
           <e p="Shared" t="Include">
             <e p="_Layout.cshtml" t="Include" />
+            <e p="_LoginPartial.cshtml" t="Include" />
             <e p="_NavBar.cshtml" t="Include" />
             <e p="Error.cshtml" t="Include" />
+            <e p="Lockout.cshtml" t="Include" />
           </e>
           <e p="Web.config" t="Include" />
         </e>
