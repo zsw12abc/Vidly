@@ -13,9 +13,6 @@ namespace Vidly.Controllers
             var movie = new Movie() {Name = "Secret"};
 
             return View(movie);
-//            return new ViewResult();
-//            return Content("Hello World");
-//            return new EmptyResult();
         }
 
         public ActionResult Edit(int id)
