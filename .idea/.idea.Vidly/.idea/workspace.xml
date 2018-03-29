@@ -35,18 +35,18 @@
         <entry file="file://$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="407">
-              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
-                <marker date="1522316852648" expanded="true" signature="6:77" ph="..." />
-                <marker date="1522316852648" expanded="true" signature="106:1107" ph="{...}" />
-                <marker date="1522316852648" expanded="true" signature="155:1105" ph="{...}" />
-                <marker date="1522316852648" expanded="true" signature="227:459" ph="{...}" />
-                <marker date="1522316852648" expanded="true" signature="326:449" ph="/* return new ViewResult(); ... */" />
-                <marker date="1522316852648" expanded="true" signature="501:561" ph="{...}" />
-                <marker date="1522316852648" expanded="true" signature="667:967" ph="{...}" />
-                <marker date="1522316852648" expanded="true" signature="714:773" ph="{...}" />
-                <marker date="1522316852648" expanded="true" signature="825:886" ph="{...}" />
-                <marker date="1522316852648" expanded="true" signature="1031:1099" ph="{...}" />
+                <marker date="1522317655481" expanded="true" signature="6:77" ph="..." />
+                <marker date="1522317655481" expanded="true" signature="106:1184" ph="{...}" />
+                <marker date="1522317655481" expanded="true" signature="155:1182" ph="{...}" />
+                <marker date="1522317655481" expanded="true" signature="227:459" ph="{...}" />
+                <marker date="1522317655481" expanded="true" signature="326:449" ph="/* return new ViewResult(); ... */" />
+                <marker date="1522317655481" expanded="true" signature="501:561" ph="{...}" />
+                <marker date="1522317655481" expanded="true" signature="667:967" ph="{...}" />
+                <marker date="1522317655481" expanded="true" signature="714:773" ph="{...}" />
+                <marker date="1522317655481" expanded="true" signature="825:886" ph="{...}" />
+                <marker date="1522317655481" expanded="true" signature="1108:1176" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -55,13 +55,14 @@
       <file leaf-file-name="RouteConfig.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Vidly/App_Start/RouteConfig.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+            <state relative-caret-position="360">
+              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
               <folding>
-                <marker date="1522317007984" expanded="true" signature="6:132" ph="..." />
-                <marker date="1522317007984" expanded="true" signature="149:920" ph="{...}" />
-                <marker date="1522317007984" expanded="true" signature="180:918" ph="{...}" />
-                <marker date="1522317007984" expanded="true" signature="252:912" ph="{...}" />
+                <marker date="1522317554888" expanded="true" signature="6:132" ph="..." />
+                <marker date="1522317554888" expanded="true" signature="149:993" ph="{...}" />
+                <marker date="1522317554888" expanded="true" signature="180:991" ph="{...}" />
+                <marker date="1522317554888" expanded="true" signature="252:985" ph="{...}" />
+                <marker date="1522317554888" expanded="true" signature="383:748" ph="/* Custome Route ... */" />
               </folding>
             </state>
           </provider>
@@ -193,8 +194,8 @@
         <option value="$PROJECT_DIR$/Vidly/App_Start/BundleConfig.cs" />
         <option value="$PROJECT_DIR$/Vidly/Content/bootstrap-lumen.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs" />
         <option value="$PROJECT_DIR$/Vidly/App_Start/RouteConfig.cs" />
+        <option value="$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs" />
       </list>
     </option>
   </component>
@@ -371,7 +372,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522234235288</updated>
       <workItem from="1522234236958" duration="2128000" />
-      <workItem from="1522313638203" duration="3105000" />
+      <workItem from="1522313638203" duration="3920000" />
     </task>
     <task id="LOCAL-00001" summary="change the css theme">
       <created>1522236216391</created>
@@ -394,11 +395,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522316314947</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Convention-based Routing">
+      <created>1522317050100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1522317050101</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5233000" />
+    <option name="totallyTimeSpent" value="6048000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -446,7 +454,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change the css theme" />
     <MESSAGE value="Action Parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Action Parameters" />
+    <MESSAGE value="Convention-based Routing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Convention-based Routing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -485,16 +494,16 @@
         <state relative-caret-position="180">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
-            <marker date="1522316852648" expanded="true" signature="6:77" ph="..." />
-            <marker date="1522316852648" expanded="true" signature="106:1107" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="155:1105" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="227:459" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="326:449" ph="/* return new ViewResult(); ... */" />
-            <marker date="1522316852648" expanded="true" signature="501:561" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="667:967" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="714:773" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="825:886" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="1031:1099" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="6:77" ph="..." />
+            <marker date="1522317655481" expanded="true" signature="106:1184" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="155:1182" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="227:459" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="326:449" ph="/* return new ViewResult(); ... */" />
+            <marker date="1522317655481" expanded="true" signature="501:561" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="667:967" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="714:773" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="825:886" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="1108:1176" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -621,17 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vidly/Models/Movie.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <marker date="1522234930271" expanded="true" signature="22:161" ph="{...}" />
-            <marker date="1522234930271" expanded="true" signature="47:136" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vidly/Views/Movies/Random.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -722,31 +720,43 @@
     <entry file="file://$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
-            <marker date="1522316852648" expanded="true" signature="6:77" ph="..." />
-            <marker date="1522316852648" expanded="true" signature="106:1107" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="155:1105" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="227:459" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="326:449" ph="/* return new ViewResult(); ... */" />
-            <marker date="1522316852648" expanded="true" signature="501:561" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="667:967" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="714:773" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="825:886" ph="{...}" />
-            <marker date="1522316852648" expanded="true" signature="1031:1099" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="6:77" ph="..." />
+            <marker date="1522317655481" expanded="true" signature="106:1184" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="155:1182" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="227:459" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="326:449" ph="/* return new ViewResult(); ... */" />
+            <marker date="1522317655481" expanded="true" signature="501:561" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="667:967" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="714:773" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="825:886" ph="{...}" />
+            <marker date="1522317655481" expanded="true" signature="1108:1176" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vidly/Models/Movie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <marker date="1522234930271" expanded="true" signature="22:161" ph="{...}" />
+            <marker date="1522234930271" expanded="true" signature="47:136" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Vidly/App_Start/RouteConfig.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        <state relative-caret-position="360">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
           <folding>
-            <marker date="1522317007984" expanded="true" signature="6:132" ph="..." />
-            <marker date="1522317007984" expanded="true" signature="149:920" ph="{...}" />
-            <marker date="1522317007984" expanded="true" signature="180:918" ph="{...}" />
-            <marker date="1522317007984" expanded="true" signature="252:912" ph="{...}" />
+            <marker date="1522317554888" expanded="true" signature="6:132" ph="..." />
+            <marker date="1522317554888" expanded="true" signature="149:993" ph="{...}" />
+            <marker date="1522317554888" expanded="true" signature="180:991" ph="{...}" />
+            <marker date="1522317554888" expanded="true" signature="252:985" ph="{...}" />
+            <marker date="1522317554888" expanded="true" signature="383:748" ph="/* Custome Route ... */" />
           </folding>
         </state>
       </provider>
