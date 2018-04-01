@@ -36,30 +36,11 @@
         </e>
         <e p="Global.asax" t="Include" />
         <e p="Global.asax.cs" t="Include" />
-        <e p="Migrations" t="Include">
-          <e p="201804010918326_InitialModel.cs" t="Include" />
-          <e p="201804010918326_InitialModel.Designer.cs" t="Include" />
-          <e p="201804010918326_InitialModel.resx" t="Include" />
-          <e p="201804010942131_AddIsSubscribedToCustomer.cs" t="Include" />
-          <e p="201804010942131_AddIsSubscribedToCustomer.Designer.cs" t="Include" />
-          <e p="201804010942131_AddIsSubscribedToCustomer.resx" t="Include" />
-          <e p="201804010950364_AddMembershipType.cs" t="Include" />
-          <e p="201804010950364_AddMembershipType.Designer.cs" t="Include" />
-          <e p="201804010950364_AddMembershipType.resx" t="Include" />
-          <e p="201804010957320_PopulateMembershipTypes.cs" t="Include" />
-          <e p="201804010957320_PopulateMembershipTypes.Designer.cs" t="Include" />
-          <e p="201804010957320_PopulateMembershipTypes.resx" t="Include" />
-          <e p="201804011018359_ApplyAnnotationsToCustomerName.cs" t="Include" />
-          <e p="201804011018359_ApplyAnnotationsToCustomerName.Designer.cs" t="Include" />
-          <e p="201804011018359_ApplyAnnotationsToCustomerName.resx" t="Include" />
-          <e p="Configuration.cs" t="Include" />
-        </e>
         <e p="Models" t="Include">
           <e p="AccountViewModels.cs" t="Include" />
           <e p="Customer.cs" t="Include" />
           <e p="IdentityModels.cs" t="Include" />
           <e p="ManageViewModels.cs" t="Include" />
-          <e p="MembershipType.cs" t="Include" />
           <e p="Movie.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
