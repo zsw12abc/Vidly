@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bb414af-953f-4e81-bc23-a94d6ef72224" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Vidly/Controllers/CustomersController.cs" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" />
-      <change beforePath="$PROJECT_DIR$/.vs/Vidly/v15/Server/sqlite3/storage.ide" afterPath="$PROJECT_DIR$/.vs/Vidly/v15/Server/sqlite3/storage.ide" />
-      <change beforePath="$PROJECT_DIR$/.vs/config/applicationhost.config" afterPath="$PROJECT_DIR$/.vs/config/applicationhost.config" />
-      <change beforePath="$PROJECT_DIR$/Vidly/App_Start/BundleConfig.cs" afterPath="$PROJECT_DIR$/Vidly/App_Start/BundleConfig.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/App_Start/FilterConfig.cs" afterPath="$PROJECT_DIR$/Vidly/App_Start/FilterConfig.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/App_Start/RouteConfig.cs" afterPath="$PROJECT_DIR$/Vidly/App_Start/RouteConfig.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/ApplicationInsights.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Content/Site.css" afterPath="$PROJECT_DIR$/Vidly/Content/Site.css" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Content/bootstrap-lumen.css" afterPath="$PROJECT_DIR$/Vidly/Content/bootstrap-lumen.css" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Content/bootstrap-lumen.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Controllers/HomeController.cs" afterPath="$PROJECT_DIR$/Vidly/Controllers/HomeController.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs" afterPath="$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Global.asax" afterPath="$PROJECT_DIR$/Vidly/Global.asax" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Global.asax.cs" afterPath="$PROJECT_DIR$/Vidly/Global.asax.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Models/Customer.cs" afterPath="$PROJECT_DIR$/Vidly/Models/Customer.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Models/Movie.cs" afterPath="$PROJECT_DIR$/Vidly/Models/Movie.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Vidly/Properties/AssemblyInfo.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Scripts/jquery-1.10.2.intellisense.js" afterPath="$PROJECT_DIR$/Vidly/Scripts/jquery-1.10.2.intellisense.js" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Scripts/jquery.validate-vsdoc.js" afterPath="$PROJECT_DIR$/Vidly/Scripts/jquery.validate-vsdoc.js" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Scripts/jquery.validate.unobtrusive.js" afterPath="$PROJECT_DIR$/Vidly/Scripts/jquery.validate.unobtrusive.js" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Scripts/jquery.validate.unobtrusive.min.js" afterPath="$PROJECT_DIR$/Vidly/Scripts/jquery.validate.unobtrusive.min.js" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Vidly.csproj" afterPath="$PROJECT_DIR$/Vidly/Vidly.csproj" />
-      <change beforePath="$PROJECT_DIR$/Vidly/ViewModels/RandomMovieViewModel.cs" afterPath="$PROJECT_DIR$/Vidly/ViewModels/RandomMovieViewModel.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Views/Home/About.cshtml" afterPath="$PROJECT_DIR$/Vidly/Views/Home/About.cshtml" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Views/Home/Contact.cshtml" afterPath="$PROJECT_DIR$/Vidly/Views/Home/Contact.cshtml" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Views/Home/Index.cshtml" afterPath="$PROJECT_DIR$/Vidly/Views/Home/Index.cshtml" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Views/Movies/Random.cshtml" afterPath="$PROJECT_DIR$/Vidly/Views/Movies/Random.cshtml" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Views/Shared/Error.cshtml" afterPath="$PROJECT_DIR$/Vidly/Views/Shared/Error.cshtml" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Views/Shared/_Layout.cshtml" afterPath="$PROJECT_DIR$/Vidly/Views/Shared/_Layout.cshtml" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Views/Shared/_NavBar.cshtml" afterPath="$PROJECT_DIR$/Vidly/Views/Shared/_NavBar.cshtml" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Views/Web.config" afterPath="$PROJECT_DIR$/Vidly/Views/Web.config" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Views/_ViewStart.cshtml" afterPath="$PROJECT_DIR$/Vidly/Views/_ViewStart.cshtml" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Web.Debug.config" afterPath="$PROJECT_DIR$/Vidly/Web.Debug.config" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Web.Release.config" afterPath="$PROJECT_DIR$/Vidly/Web.Release.config" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Web.config" afterPath="$PROJECT_DIR$/Vidly/Web.config" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/ApplicationInsights.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/Microsoft.AI.DependencyCollector.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/Microsoft.AI.ServerTelemetryChannel.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/Microsoft.AI.Web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/Microsoft.AI.WindowsServer.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/Microsoft.ApplicationInsights.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/Vidly.dll.config" afterPath="$PROJECT_DIR$/Vidly/bin/Vidly.dll.config" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/roslyn/Microsoft.CSharp.Core.targets" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/roslyn/Microsoft.VisualBasic.Core.targets" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/roslyn/VBCSCompiler.exe.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/roslyn/csc.exe.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/roslyn/csc.rsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/roslyn/csi.exe.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/roslyn/csi.rsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/roslyn/vbc.exe.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/bin/roslyn/vbc.rsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/obj/Debug/Vidly.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Vidly/obj/Debug/Vidly.csproj.FileListAbsolute.txt" />
-      <change beforePath="$PROJECT_DIR$/Vidly/obj/Debug/build.force" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vidly/packages.config" afterPath="$PROJECT_DIR$/Vidly/packages.config" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,80 +16,215 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Movie.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vidly/Models/Movie.cs">
+      <file leaf-file-name="AccountController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vidly/Controllers/AccountController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-171">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1459734398000" expanded="false" signature="6:282" ph="..." />
+                <marker date="1459734398000" expanded="true" signature="311:17335" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="377:17333" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="529:549" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="660:762" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="817:1079" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="843:974" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="999:1069" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1130:1394" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1156:1294" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1318:1384" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1404:1437" ph="/* GET: /Account/Login ... */" />
+                <marker date="1459734398000" expanded="true" signature="1514:1604" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1614:1648" ph="/* POST: /Account/Login ... */" />
+                <marker date="1459734398000" expanded="true" signature="1813:2846" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1860:1924" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1938:2099" ph="/* This doesn't count login failures towards account lockout ... */" />
+                <marker date="1459734398000" expanded="true" signature="2262:2836" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="2856:2894" ph="/* GET: /Account/VerifyCode ... */" />
+                <marker date="1459734398000" expanded="true" signature="3022:3390" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="3192:3258" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="3400:3439" ph="/* POST: /Account/VerifyCode ... */" />
+                <marker date="1459734398000" expanded="true" signature="3596:4657" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="3643:3707" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="3721:4055" ph="/* The following code protects for brute force attacks against the two factor codes. ... */" />
+                <marker date="1459734398000" expanded="true" signature="4251:4647" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="4667:4703" ph="/* GET: /Account/Register ... */" />
+                <marker date="1459734398000" expanded="true" signature="4767:4814" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="4824:4861" ph="/* POST: /Account/Register ... */" />
+                <marker date="1459734398000" expanded="true" signature="5014:6308" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="5060:6197" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="5290:6148" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="5452:6067" ph="/* For more information on how to enable account confirmation and password reset please visit http://go.microsoft ... */" />
+                <marker date="1459734398000" expanded="true" signature="6318:6358" ph="/* GET: /Account/ConfirmEmail ... */" />
+                <marker date="1459734398000" expanded="true" signature="6464:6744" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="6522:6588" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="6754:6796" ph="/* GET: /Account/ForgotPassword ... */" />
+                <marker date="1459734398000" expanded="true" signature="6866:6913" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="6923:6966" ph="/* POST: /Account/ForgotPassword ... */" />
+                <marker date="1459734398000" expanded="true" signature="7131:8358" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="7177:8247" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="7355:7539" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="7557:8233" ph="/* For more information on how to enable account confirmation and password reset please visit http://go.microsoft ... */" />
+                <marker date="1459734398000" expanded="true" signature="8368:8422" ph="/* GET: /Account/ForgotPasswordConfirmation ... */" />
+                <marker date="1459734398000" expanded="true" signature="8504:8551" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="8561:8602" ph="/* GET: /Account/ResetPassword ... */" />
+                <marker date="1459734398000" expanded="true" signature="8682:8760" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="8770:8812" ph="/* POST: /Account/ResetPassword ... */" />
+                <marker date="1459734398000" expanded="true" signature="8975:9668" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="9022:9086" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="9187:9357" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="9491:9600" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="9678:9731" ph="/* GET: /Account/ResetPasswordConfirmation ... */" />
+                <marker date="1459734398000" expanded="true" signature="9812:9859" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="9869:9911" ph="/* POST: /Account/ExternalLogin ... */" />
+                <marker date="1459734398000" expanded="true" signature="10067:10281" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="10291:10327" ph="/* GET: /Account/SendCode ... */" />
+                <marker date="1459734398000" expanded="true" signature="10436:10968" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="10549:10615" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="10978:11015" ph="/* POST: /Account/SendCode ... */" />
+                <marker date="1459734398000" expanded="true" signature="11168:11636" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="11215:11274" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="11406:11472" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="11646:11695" ph="/* GET: /Account/ExternalLoginCallback ... */" />
+                <marker date="1459734398000" expanded="true" signature="11800:13049" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="11930:12008" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="12233:13039" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="13059:13113" ph="/* POST: /Account/ExternalLoginConfirmation ... */" />
+                <marker date="1459734398000" expanded="true" signature="13318:14519" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="13375:13463" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="13500:14433" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="13719:13812" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="14012:14384" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="14155:14366" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="14529:14564" ph="/* POST: /Account/LogOff ... */" />
+                <marker date="1459734398000" expanded="true" signature="14655:14774" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="14784:14832" ph="/* GET: /Account/ExternalLoginFailure ... */" />
+                <marker date="1459734398000" expanded="true" signature="14908:14955" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="15012:15458" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="15049:15410" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="15105:15226" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="15271:15396" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="15468:17327" ph="Helpers" />
+                <marker date="1459734398000" expanded="true" signature="15658:15790" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="15684:15780" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="15845:15995" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="15904:15985" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="16059:16248" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="16112:16184" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="16313:17308" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="16447:16475" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="16563:16709" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="16938:17298" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="17081:17178" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoviesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
-                <marker date="1459734398000" expanded="true" signature="23:139" ph="{...}" />
-                <marker date="1459734398000" expanded="true" signature="48:137" ph="{...}" />
+                <marker date="1459734398000" expanded="false" signature="6:99" ph="..." />
+                <marker date="1459734398000" expanded="true" signature="128:1078" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="177:1076" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="217:313" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="361:553" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="419:542" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="621:1070" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="748:870" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="938:1022" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RouteConfig.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vidly/App_Start/RouteConfig.cs">
+      <file leaf-file-name="ManageController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Vidly/Controllers/ManageController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Random.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vidly/Views/Movies/Random.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Customer.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vidly/Models/Customer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1459734398000" expanded="false" signature="6:29" ph="..." />
-                <marker date="1459734398000" expanded="true" signature="204:225" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vidly/Views/Shared/_Layout.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-              <folding>
-                <marker date="1459734398000" expanded="true" signature="16:640" ph="&lt;html.../&gt;" />
-                <marker date="1459734398000" expanded="true" signature="23:280" ph="&lt;head.../&gt;" />
-                <marker date="1459734398000" expanded="true" signature="281:632" ph="&lt;body.../&gt;" />
-                <marker date="1459734398000" expanded="true" signature="321:493" ph="&lt;div.../&gt;" />
-                <marker date="1459734398000" expanded="true" signature="403:482" ph="&lt;footer.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_NavBar.cshtml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Vidly/Views/Shared/_NavBar.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <marker date="1459734398000" expanded="true" signature="0:841" ph="&lt;div.../&gt;" />
-                <marker date="1459734398000" expanded="true" signature="57:834" ph="&lt;div.../&gt;" />
-                <marker date="1459734398000" expanded="true" signature="89:512" ph="&lt;div.../&gt;" />
-                <marker date="1459734398000" expanded="true" signature="129:390" ph="&lt;button.../&gt;" />
-                <marker date="1459734398000" expanded="true" signature="521:823" ph="&lt;div.../&gt;" />
-                <marker date="1459734398000" expanded="true" signature="572:765" ph="&lt;ul.../&gt;" />
+                <marker date="1459734398000" expanded="false" signature="6:224" ph="..." />
+                <marker date="1459734398000" expanded="true" signature="253:14054" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="318:14052" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="469:489" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="598:700" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="755:1017" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="781:912" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="937:1007" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1068:1332" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1094:1232" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1256:1322" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1342:1374" ph="/* GET: /Manage/Index ... */" />
+                <marker date="1459734398000" expanded="true" signature="1446:2645" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="2214:2602" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="2655:2694" ph="/* POST: /Manage/RemoveLogin ... */" />
+                <marker date="1459734398000" expanded="true" signature="2842:3594" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="3059:3410" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="3194:3334" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="3427:3504" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="3604:3645" ph="/* GET: /Manage/AddPhoneNumber ... */" />
+                <marker date="1459734398000" expanded="true" signature="3690:3737" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="3747:3789" ph="/* POST: /Manage/AddPhoneNumber ... */" />
+                <marker date="1459734398000" expanded="true" signature="3929:4645" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="3976:4040" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="4253:4541" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="4334:4461" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="4655:4712" ph="/* POST: /Manage/EnableTwoFactorAuthentication ... */" />
+                <marker date="1459734398000" expanded="true" signature="4838:5244" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="5050:5178" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="5254:5312" ph="/* POST: /Manage/DisableTwoFactorAuthentication ... */" />
+                <marker date="1459734398000" expanded="true" signature="5439:5846" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="5652:5780" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="5856:5900" ph="/* GET: /Manage/VerifyPhoneNumber ... */" />
+                <marker date="1459734398000" expanded="true" signature="5978:6320" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="6330:6375" ph="/* POST: /Manage/VerifyPhoneNumber ... */" />
+                <marker date="1459734398000" expanded="true" signature="6521:7359" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="6568:6632" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="6791:7181" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="6926:7066" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="7369:7413" ph="/* GET: /Manage/RemovePhoneNumber ... */" />
+                <marker date="1459734398000" expanded="true" signature="7473:8085" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="7615:7734" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="7847:7975" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="8095:8136" ph="/* GET: /Manage/ChangePassword ... */" />
+                <marker date="1459734398000" expanded="true" signature="8181:8228" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="8238:8280" ph="/* POST: /Manage/ChangePassword ... */" />
+                <marker date="1459734398000" expanded="true" signature="8420:9163" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="8467:8531" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="8694:9090" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="8829:8969" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="9173:9211" ph="/* GET: /Manage/SetPassword ... */" />
+                <marker date="1459734398000" expanded="true" signature="9253:9300" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="9310:9349" ph="/* POST: /Manage/SetPassword ... */" />
+                <marker date="1459734398000" expanded="true" signature="9483:10277" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="9529:10166" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="9692:10117" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="9839:9991" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="10287:10326" ph="/* GET: /Manage/ManageLogins ... */" />
+                <marker date="1459734398000" expanded="true" signature="10405:11360" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="10762:10828" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="11247:11348" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="11370:11407" ph="/* POST: /Manage/LinkLogin ... */" />
+                <marker date="1459734398000" expanded="true" signature="11516:11776" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="11786:11830" ph="/* GET: /Manage/LinkLoginCallback ... */" />
+                <marker date="1459734398000" expanded="true" signature="11890:12440" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="12054:12180" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="12497:12711" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="12558:12663" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="12713:14046" ph="Helpers" />
+                <marker date="1459734398000" expanded="true" signature="12903:13035" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="12929:13025" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="13090:13240" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="13149:13230" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="13276:13502" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="13388:13466" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="13541:13766" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="13653:13730" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="13803:14034" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -155,10 +233,11 @@
       <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Vidly/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="76">
               <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
               <folding>
-                <marker date="1459734398000" expanded="true" signature="6:106" ph="..." />
+                <marker date="1459734398000" expanded="false" signature="6:106" ph="..." />
+                <marker date="1459734398000" expanded="true" signature="135:571" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="182:569" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="224:271" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="308:424" ph="{...}" />
@@ -168,16 +247,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FilterConfig.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vidly/App_Start/FilterConfig.cs">
+      <file leaf-file-name="CustomersController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vidly/Controllers/CustomersController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="551">
+              <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
               <folding>
-                <marker date="1459734398000" expanded="true" signature="6:39" ph="..." />
-                <marker date="1459734398000" expanded="true" signature="56:256" ph="{...}" />
-                <marker date="1459734398000" expanded="true" signature="88:254" ph="{...}" />
-                <marker date="1459734398000" expanded="true" signature="175:248" ph="{...}" />
+                <marker date="1459734398000" expanded="false" signature="6:94" ph="..." />
+                <marker date="1459734398000" expanded="true" signature="123:842" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="175:840" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="215:316" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="361:567" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="621:834" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="682:823" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -197,9 +279,11 @@
     <setting file="file://$PROJECT_DIR$/Vidly/App_Start/RouteConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Controllers/CustomersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Controllers/ManageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Models/Movie.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Global.asax" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Controllers/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/packages.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Views/Movies/Random.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
@@ -275,6 +359,12 @@
               <item name="Vidly (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Vidly" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Vidly (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Vidly" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -338,7 +428,8 @@
       <workItem from="1522234236958" duration="2128000" />
       <workItem from="1522313638203" duration="10010000" />
       <workItem from="1522324020791" duration="395000" />
-      <workItem from="1522325019314" duration="22000" />
+      <workItem from="1522325019314" duration="90000" />
+      <workItem from="1522572281182" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="change the css theme">
       <created>1522236216391</created>
@@ -403,11 +494,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522321523356</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exercise 2">
+      <created>1522325054444</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1522325054444</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12555000" />
+    <option name="totallyTimeSpent" value="13104000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -425,17 +523,17 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22122905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22122905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33295712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16950959" sideWeight="0.4956044" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17110874" sideWeight="0.4956044" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23741794" sideWeight="0.5043956" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -461,7 +559,8 @@
     <MESSAGE value="View Model" />
     <MESSAGE value="Razor Syntax" />
     <MESSAGE value="Partical View" />
-    <option name="LAST_COMMIT_MESSAGE" value="Partical View" />
+    <MESSAGE value="Exercise 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -484,14 +583,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Vidly/Views/Shared/_NavBar.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1459734398000" expanded="true" signature="0:841" ph="&lt;div.../&gt;" />
+            <marker date="1459734398000" expanded="true" signature="57:834" ph="&lt;div.../&gt;" />
+            <marker date="1459734398000" expanded="true" signature="89:512" ph="&lt;div.../&gt;" />
+            <marker date="1459734398000" expanded="true" signature="129:390" ph="&lt;button.../&gt;" />
+            <marker date="1459734398000" expanded="true" signature="521:823" ph="&lt;div.../&gt;" />
+            <marker date="1459734398000" expanded="true" signature="572:765" ph="&lt;ul.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Vidly/Models/Movie.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="23:139" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="48:137" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -541,7 +652,8 @@
         <state relative-caret-position="152">
           <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding>
-            <marker date="1459734398000" expanded="true" signature="6:106" ph="..." />
+            <marker date="1459734398000" expanded="false" signature="6:106" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="135:571" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="182:569" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="224:271" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="308:424" ph="{...}" />
@@ -582,10 +694,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="23:139" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="48:137" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -649,6 +758,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding>
+            <marker date="1459734398000" expanded="true" signature="6:13" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="823:834" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="823:840" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -657,7 +771,8 @@
         <state relative-caret-position="152">
           <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding>
-            <marker date="1459734398000" expanded="true" signature="6:106" ph="..." />
+            <marker date="1459734398000" expanded="false" signature="6:106" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="135:571" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="182:569" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="224:271" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="308:424" ph="{...}" />
@@ -690,10 +805,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="23:139" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="48:137" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -701,6 +813,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -819,21 +932,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vidly/Models/Movie.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="23:139" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="48:137" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -878,20 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vidly/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="6:106" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="182:569" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="224:271" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="308:424" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="463:563" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vidly/App_Start/FilterConfig.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -912,17 +1001,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vidly/Controllers/CustomersController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vidly/Views/Shared/_NavBar.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <marker date="1459734398000" expanded="true" signature="0:841" ph="&lt;div.../&gt;" />
             <marker date="1459734398000" expanded="true" signature="57:834" ph="&lt;div.../&gt;" />
@@ -930,6 +1012,231 @@
             <marker date="1459734398000" expanded="true" signature="129:390" ph="&lt;button.../&gt;" />
             <marker date="1459734398000" expanded="true" signature="521:823" ph="&lt;div.../&gt;" />
             <marker date="1459734398000" expanded="true" signature="572:765" ph="&lt;ul.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vidly/Controllers/AccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1459734398000" expanded="false" signature="6:282" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="311:17335" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="377:17333" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="529:549" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="660:762" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="817:1079" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="843:974" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="999:1069" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1130:1394" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1156:1294" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1318:1384" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1404:1437" ph="/* GET: /Account/Login ... */" />
+            <marker date="1459734398000" expanded="true" signature="1514:1604" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1614:1648" ph="/* POST: /Account/Login ... */" />
+            <marker date="1459734398000" expanded="true" signature="1813:2846" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1860:1924" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1938:2099" ph="/* This doesn't count login failures towards account lockout ... */" />
+            <marker date="1459734398000" expanded="true" signature="2262:2836" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="2856:2894" ph="/* GET: /Account/VerifyCode ... */" />
+            <marker date="1459734398000" expanded="true" signature="3022:3390" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="3192:3258" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="3400:3439" ph="/* POST: /Account/VerifyCode ... */" />
+            <marker date="1459734398000" expanded="true" signature="3596:4657" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="3643:3707" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="3721:4055" ph="/* The following code protects for brute force attacks against the two factor codes. ... */" />
+            <marker date="1459734398000" expanded="true" signature="4251:4647" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="4667:4703" ph="/* GET: /Account/Register ... */" />
+            <marker date="1459734398000" expanded="true" signature="4767:4814" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="4824:4861" ph="/* POST: /Account/Register ... */" />
+            <marker date="1459734398000" expanded="true" signature="5014:6308" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="5060:6197" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="5290:6148" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="5452:6067" ph="/* For more information on how to enable account confirmation and password reset please visit http://go.microsoft ... */" />
+            <marker date="1459734398000" expanded="true" signature="6318:6358" ph="/* GET: /Account/ConfirmEmail ... */" />
+            <marker date="1459734398000" expanded="true" signature="6464:6744" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="6522:6588" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="6754:6796" ph="/* GET: /Account/ForgotPassword ... */" />
+            <marker date="1459734398000" expanded="true" signature="6866:6913" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="6923:6966" ph="/* POST: /Account/ForgotPassword ... */" />
+            <marker date="1459734398000" expanded="true" signature="7131:8358" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="7177:8247" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="7355:7539" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="7557:8233" ph="/* For more information on how to enable account confirmation and password reset please visit http://go.microsoft ... */" />
+            <marker date="1459734398000" expanded="true" signature="8368:8422" ph="/* GET: /Account/ForgotPasswordConfirmation ... */" />
+            <marker date="1459734398000" expanded="true" signature="8504:8551" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="8561:8602" ph="/* GET: /Account/ResetPassword ... */" />
+            <marker date="1459734398000" expanded="true" signature="8682:8760" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="8770:8812" ph="/* POST: /Account/ResetPassword ... */" />
+            <marker date="1459734398000" expanded="true" signature="8975:9668" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="9022:9086" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="9187:9357" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="9491:9600" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="9678:9731" ph="/* GET: /Account/ResetPasswordConfirmation ... */" />
+            <marker date="1459734398000" expanded="true" signature="9812:9859" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="9869:9911" ph="/* POST: /Account/ExternalLogin ... */" />
+            <marker date="1459734398000" expanded="true" signature="10067:10281" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="10291:10327" ph="/* GET: /Account/SendCode ... */" />
+            <marker date="1459734398000" expanded="true" signature="10436:10968" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="10549:10615" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="10978:11015" ph="/* POST: /Account/SendCode ... */" />
+            <marker date="1459734398000" expanded="true" signature="11168:11636" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="11215:11274" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="11406:11472" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="11646:11695" ph="/* GET: /Account/ExternalLoginCallback ... */" />
+            <marker date="1459734398000" expanded="true" signature="11800:13049" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="11930:12008" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="12233:13039" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="13059:13113" ph="/* POST: /Account/ExternalLoginConfirmation ... */" />
+            <marker date="1459734398000" expanded="true" signature="13318:14519" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="13375:13463" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="13500:14433" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="13719:13812" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="14012:14384" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="14155:14366" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="14529:14564" ph="/* POST: /Account/LogOff ... */" />
+            <marker date="1459734398000" expanded="true" signature="14655:14774" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="14784:14832" ph="/* GET: /Account/ExternalLoginFailure ... */" />
+            <marker date="1459734398000" expanded="true" signature="14908:14955" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="15012:15458" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="15049:15410" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="15105:15226" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="15271:15396" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="15468:17327" ph="Helpers" />
+            <marker date="1459734398000" expanded="true" signature="15658:15790" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="15684:15780" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="15845:15995" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="15904:15985" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="16059:16248" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="16112:16184" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="16313:17308" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="16447:16475" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="16563:16709" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="16938:17298" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="17081:17178" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vidly/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <marker date="1459734398000" expanded="false" signature="6:106" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="135:571" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="182:569" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="224:271" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="308:424" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="463:563" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vidly/Controllers/CustomersController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding>
+            <marker date="1459734398000" expanded="true" signature="6:13" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="823:834" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="823:840" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vidly/Controllers/ManageController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1459734398000" expanded="false" signature="6:224" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="253:14054" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="318:14052" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="469:489" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="598:700" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="755:1017" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="781:912" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="937:1007" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1068:1332" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1094:1232" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1256:1322" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1342:1374" ph="/* GET: /Manage/Index ... */" />
+            <marker date="1459734398000" expanded="true" signature="1446:2645" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="2214:2602" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="2655:2694" ph="/* POST: /Manage/RemoveLogin ... */" />
+            <marker date="1459734398000" expanded="true" signature="2842:3594" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="3059:3410" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="3194:3334" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="3427:3504" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="3604:3645" ph="/* GET: /Manage/AddPhoneNumber ... */" />
+            <marker date="1459734398000" expanded="true" signature="3690:3737" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="3747:3789" ph="/* POST: /Manage/AddPhoneNumber ... */" />
+            <marker date="1459734398000" expanded="true" signature="3929:4645" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="3976:4040" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="4253:4541" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="4334:4461" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="4655:4712" ph="/* POST: /Manage/EnableTwoFactorAuthentication ... */" />
+            <marker date="1459734398000" expanded="true" signature="4838:5244" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="5050:5178" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="5254:5312" ph="/* POST: /Manage/DisableTwoFactorAuthentication ... */" />
+            <marker date="1459734398000" expanded="true" signature="5439:5846" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="5652:5780" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="5856:5900" ph="/* GET: /Manage/VerifyPhoneNumber ... */" />
+            <marker date="1459734398000" expanded="true" signature="5978:6320" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="6330:6375" ph="/* POST: /Manage/VerifyPhoneNumber ... */" />
+            <marker date="1459734398000" expanded="true" signature="6521:7359" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="6568:6632" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="6791:7181" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="6926:7066" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="7369:7413" ph="/* GET: /Manage/RemovePhoneNumber ... */" />
+            <marker date="1459734398000" expanded="true" signature="7473:8085" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="7615:7734" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="7847:7975" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="8095:8136" ph="/* GET: /Manage/ChangePassword ... */" />
+            <marker date="1459734398000" expanded="true" signature="8181:8228" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="8238:8280" ph="/* POST: /Manage/ChangePassword ... */" />
+            <marker date="1459734398000" expanded="true" signature="8420:9163" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="8467:8531" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="8694:9090" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="8829:8969" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="9173:9211" ph="/* GET: /Manage/SetPassword ... */" />
+            <marker date="1459734398000" expanded="true" signature="9253:9300" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="9310:9349" ph="/* POST: /Manage/SetPassword ... */" />
+            <marker date="1459734398000" expanded="true" signature="9483:10277" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="9529:10166" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="9692:10117" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="9839:9991" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="10287:10326" ph="/* GET: /Manage/ManageLogins ... */" />
+            <marker date="1459734398000" expanded="true" signature="10405:11360" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="10762:10828" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="11247:11348" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="11370:11407" ph="/* POST: /Manage/LinkLogin ... */" />
+            <marker date="1459734398000" expanded="true" signature="11516:11776" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="11786:11830" ph="/* GET: /Manage/LinkLoginCallback ... */" />
+            <marker date="1459734398000" expanded="true" signature="11890:12440" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="12054:12180" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="12497:12711" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="12558:12663" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="12713:14046" ph="Helpers" />
+            <marker date="1459734398000" expanded="true" signature="12903:13035" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="12929:13025" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="13090:13240" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="13149:13230" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="13276:13502" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="13388:13466" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="13541:13766" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="13653:13730" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="13803:14034" ph="{...}" />
           </folding>
         </state>
       </provider>
