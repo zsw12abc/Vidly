@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bb414af-953f-4e81-bc23-a94d6ef72224" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Vidly/Models/MembershipType.cs" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/contentModel.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Models/Customer.cs" afterPath="$PROJECT_DIR$/Vidly/Models/Customer.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Models/IdentityModels.cs" afterPath="$PROJECT_DIR$/Vidly/Models/IdentityModels.cs" />
-      <change beforePath="$PROJECT_DIR$/Vidly/Vidly.csproj" afterPath="$PROJECT_DIR$/Vidly/Vidly.csproj" />
-      <change beforePath="$PROJECT_DIR$/Vidly/obj/Debug/Vidly.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Vidly/obj/Debug/Vidly.csproj.FileListAbsolute.txt" />
-    </list>
+    <list default="true" id="2bb414af-953f-4e81-bc23-a94d6ef72224" name="Default" comment="" />
     <ignored path="packages/EntityFramework.6.1.1/content/App.config.transform" />
     <ignored path="packages/EntityFramework.6.1.1/content/Web.config.transform" />
     <ignored path="packages/EntityFramework.6.1.1/lib/net40/EntityFramework.SqlServer.xml" />
@@ -346,7 +338,7 @@
         <entry file="file://$PROJECT_DIR$/Vidly/Models/Customer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <marker date="1522577801313" expanded="true" signature="6:129" ph="..." />
                 <marker date="1522577801313" expanded="true" signature="153:488" ph="{...}" />
@@ -419,6 +411,7 @@
     <setting file="file://$PROJECT_DIR$/Vidly/Views/Movies/Random.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Models/IdentityModels.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Models/ManageViewModels.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Migrations/201804010918326_InitialModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Models/Customer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Migrations/Configuration.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/ViewModels/RandomMovieViewModel.cs" root0="FORCE_HIGHLIGHTING" />
@@ -571,7 +564,7 @@
       <workItem from="1522324020791" duration="395000" />
       <workItem from="1522325019314" duration="90000" />
       <workItem from="1522572281182" duration="1867000" />
-      <workItem from="1522574969581" duration="2974000" />
+      <workItem from="1522574969581" duration="3401000" />
     </task>
     <task id="LOCAL-00001" summary="change the css theme">
       <created>1522236216391</created>
@@ -650,11 +643,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522572793892</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Working with data Overriding Conventions">
+      <created>1522578013163</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1522578013163</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17464000" />
+    <option name="totallyTimeSpent" value="17891000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -667,6 +667,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -676,7 +677,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22347629" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33295712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3512035" sideWeight="0.4956044" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3512035" sideWeight="0.4956044" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -709,7 +710,8 @@
     <MESSAGE value="Razor Syntax" />
     <MESSAGE value="Partical View" />
     <MESSAGE value="Exercise 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2" />
+    <MESSAGE value="Working with data Overriding Conventions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with data Overriding Conventions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1375,7 +1377,7 @@
     <entry file="file://$PROJECT_DIR$/Vidly/Models/Customer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <marker date="1522577801313" expanded="true" signature="6:129" ph="..." />
             <marker date="1522577801313" expanded="true" signature="153:488" ph="{...}" />
