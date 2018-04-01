@@ -55,3 +55,9 @@ E:\Source\Repo\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 E:\Source\Repo\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 E:\Source\Repo\Vidly\Vidly\obj\Debug\Vidly.dll
 E:\Source\Repo\Vidly\Vidly\obj\Debug\Vidly.pdb
+E:\Source\Repo\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+E:\Source\Repo\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+E:\Source\Repo\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+E:\Source\Repo\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+E:\Source\Repo\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+E:\Source\Repo\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources

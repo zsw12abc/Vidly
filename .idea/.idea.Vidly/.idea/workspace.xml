@@ -2,8 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bb414af-953f-4e81-bc23-a94d6ef72224" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Vidly/Models/MembershipType.cs" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Vidly/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Vidly/Models/Customer.cs" afterPath="$PROJECT_DIR$/Vidly/Models/Customer.cs" />
+      <change beforePath="$PROJECT_DIR$/Vidly/Models/IdentityModels.cs" afterPath="$PROJECT_DIR$/Vidly/Models/IdentityModels.cs" />
+      <change beforePath="$PROJECT_DIR$/Vidly/Vidly.csproj" afterPath="$PROJECT_DIR$/Vidly/Vidly.csproj" />
+      <change beforePath="$PROJECT_DIR$/Vidly/obj/Debug/Vidly.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Vidly/obj/Debug/Vidly.csproj.FileListAbsolute.txt" />
     </list>
+    <ignored path="packages/EntityFramework.6.1.1/content/App.config.transform" />
+    <ignored path="packages/EntityFramework.6.1.1/content/Web.config.transform" />
+    <ignored path="packages/EntityFramework.6.1.1/lib/net40/EntityFramework.SqlServer.xml" />
+    <ignored path="packages/EntityFramework.6.1.1/lib/net40/EntityFramework.xml" />
+    <ignored path="packages/EntityFramework.6.1.1/lib/net45/EntityFramework.SqlServer.xml" />
+    <ignored path="packages/EntityFramework.6.1.1/lib/net45/EntityFramework.xml" />
+    <ignored path="packages/EntityFramework.6.1.1/tools/about_EntityFramework.help.txt" />
+    <ignored path="packages/EntityFramework.6.1.1/tools/EntityFramework.psd1" />
+    <ignored path="packages/EntityFramework.6.1.1/tools/EntityFramework.psm1" />
+    <ignored path="packages/EntityFramework.6.1.1/tools/init.ps1" />
+    <ignored path="packages/EntityFramework.6.1.1/tools/install.ps1" />
+    <ignored path="packages/EntityFramework.6.1.1/EntityFramework.6.1.1.nupkg" />
+    <ignored path="packages/Microsoft.AspNet.Identity.Core.2.1.0/lib/net45/Microsoft.AspNet.Identity.Core.xml" />
+    <ignored path="packages/Microsoft.AspNet.Identity.Core.2.1.0/Microsoft.AspNet.Identity.Core.2.1.0.nupkg" />
+    <ignored path="packages/Microsoft.AspNet.Identity.EntityFramework.2.1.0/lib/net45/Microsoft.AspNet.Identity.EntityFramework.xml" />
+    <ignored path="packages/Microsoft.AspNet.Identity.EntityFramework.2.1.0/Microsoft.AspNet.Identity.EntityFramework.2.1.0.nupkg" />
+    <ignored path="packages/Microsoft.AspNet.Identity.Owin.2.1.0/lib/net45/Microsoft.AspNet.Identity.Owin.xml" />
+    <ignored path="packages/Microsoft.AspNet.Identity.Owin.2.1.0/Microsoft.AspNet.Identity.Owin.2.1.0.nupkg" />
+    <ignored path="packages/Microsoft.AspNet.Mvc.5.2.2/Content/Web.config.install.xdt" />
+    <ignored path="packages/Microsoft.AspNet.Mvc.5.2.2/Content/Web.config.uninstall.xdt" />
+    <ignored path="packages/Microsoft.AspNet.Mvc.5.2.2/lib/net45/System.Web.Mvc.xml" />
+    <ignored path="packages/Microsoft.AspNet.Mvc.5.2.2/Microsoft.AspNet.Mvc.5.2.2.nupkg" />
+    <ignored path="packages/Microsoft.AspNet.Razor.3.2.2/lib/net45/System.Web.Razor.xml" />
+    <ignored path="packages/Microsoft.AspNet.Razor.3.2.2/Microsoft.AspNet.Razor.3.2.2.nupkg" />
+    <ignored path="packages/Microsoft.AspNet.WebPages.3.2.2/Content/Web.config.install.xdt" />
+    <ignored path="packages/Microsoft.AspNet.WebPages.3.2.2/Content/Web.config.uninstall.xdt" />
+    <ignored path="packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.Helpers.xml" />
+    <ignored path="packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.WebPages.Deployment.xml" />
+    <ignored path="packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.WebPages.Razor.xml" />
+    <ignored path="packages/Microsoft.AspNet.WebPages.3.2.2/lib/net45/System.Web.WebPages.xml" />
+    <ignored path="packages/Microsoft.AspNet.WebPages.3.2.2/Microsoft.AspNet.WebPages.3.2.2.nupkg" />
+    <ignored path="packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.2/Content/Scripts/jquery.validate.unobtrusive.js" />
+    <ignored path="packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.2/Content/Scripts/jquery.validate.unobtrusive.min.js" />
+    <ignored path="packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.2/Microsoft.jQuery.Unobtrusive.Validation.3.2.2.nupkg" />
+    <ignored path="packages/Microsoft.Owin.3.0.0/lib/net45/Microsoft.Owin.XML" />
+    <ignored path="packages/Microsoft.Owin.3.0.0/Microsoft.Owin.3.0.0.nupkg" />
+    <ignored path="packages/Microsoft.Owin.Host.SystemWeb.3.0.0/lib/net45/Microsoft.Owin.Host.SystemWeb.xml" />
+    <ignored path="packages/Microsoft.Owin.Host.SystemWeb.3.0.0/Microsoft.Owin.Host.SystemWeb.3.0.0.nupkg" />
+    <ignored path="packages/Microsoft.Owin.Security.3.0.0/lib/net45/Microsoft.Owin.Security.XML" />
+    <ignored path="packages/Microsoft.Owin.Security.3.0.0/Microsoft.Owin.Security.3.0.0.nupkg" />
+    <ignored path="packages/Microsoft.Owin.Security.Cookies.3.0.0/lib/net45/Microsoft.Owin.Security.Cookies.xml" />
+    <ignored path="packages/Microsoft.Owin.Security.Cookies.3.0.0/Microsoft.Owin.Security.Cookies.3.0.0.nupkg" />
+    <ignored path="packages/Microsoft.Owin.Security.Facebook.3.0.0/lib/net45/Microsoft.Owin.Security.Facebook.XML" />
+    <ignored path="packages/Microsoft.Owin.Security.Facebook.3.0.0/Microsoft.Owin.Security.Facebook.3.0.0.nupkg" />
+    <ignored path="packages/Microsoft.Owin.Security.Google.3.0.0/lib/net45/Microsoft.Owin.Security.Google.XML" />
+    <ignored path="packages/Microsoft.Owin.Security.Google.3.0.0/Microsoft.Owin.Security.Google.3.0.0.nupkg" />
+    <ignored path="packages/Microsoft.Owin.Security.MicrosoftAccount.3.0.0/lib/net45/Microsoft.Owin.Security.MicrosoftAccount.XML" />
+    <ignored path="packages/Microsoft.Owin.Security.MicrosoftAccount.3.0.0/Microsoft.Owin.Security.MicrosoftAccount.3.0.0.nupkg" />
+    <ignored path="packages/Microsoft.Owin.Security.OAuth.3.0.0/lib/net45/Microsoft.Owin.Security.OAuth.XML" />
+    <ignored path="packages/Microsoft.Owin.Security.OAuth.3.0.0/Microsoft.Owin.Security.OAuth.3.0.0.nupkg" />
+    <ignored path="packages/Microsoft.Owin.Security.Twitter.3.0.0/lib/net45/Microsoft.Owin.Security.Twitter.XML" />
+    <ignored path="packages/Microsoft.Owin.Security.Twitter.3.0.0/Microsoft.Owin.Security.Twitter.3.0.0.nupkg" />
+    <ignored path="packages/Owin.1.0/Owin.1.0.nupkg" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +78,7 @@
       <file leaf-file-name="AccountController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Vidly/Controllers/AccountController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-171">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <marker date="1459734398000" expanded="false" signature="6:282" ph="..." />
@@ -128,7 +187,6 @@
               <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <marker date="1459734398000" expanded="false" signature="6:99" ph="..." />
-                <marker date="1459734398000" expanded="true" signature="128:1078" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="177:1076" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="217:313" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="361:553" ph="{...}" />
@@ -141,14 +199,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ManageController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ManageController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Vidly/Controllers/ManageController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <marker date="1459734398000" expanded="false" signature="6:224" ph="..." />
-                <marker date="1459734398000" expanded="true" signature="253:14054" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="318:14052" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="469:489" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="598:700" ph="{...}" />
@@ -230,6 +287,88 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Configuration.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vidly/Migrations/Configuration.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1522574120029" expanded="true" signature="26:1002" ph="{...}" />
+                <marker date="1522574120029" expanded="false" signature="39:140" ph="..." />
+                <marker date="1522574120029" expanded="true" signature="244:1000" ph="{...}" />
+                <marker date="1522574120029" expanded="true" signature="281:349" ph="{...}" />
+                <marker date="1522574120029" expanded="true" signature="430:994" ph="{...}" />
+                <marker date="1522574120029" expanded="true" signature="453:984" ph="/* This method will be called after migrating to the latest version. ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ManageViewModels.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vidly/Models/ManageViewModels.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1459734398000" expanded="false" signature="6:142" ph="..." />
+                <marker date="1459734398000" expanded="true" signature="200:459" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="499:649" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="683:739" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="778:1295" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="1337:2005" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="2047:2178" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="2223:2453" ph="{...}" />
+                <marker date="1459734398000" expanded="true" signature="2499:2646" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IdentityModels.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vidly/Models/IdentityModels.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <marker date="1522575656067" expanded="false" signature="6:167" ph="..." />
+                <marker date="1522575656067" expanded="true" signature="191:1266" ph="{...}" />
+                <marker date="1522575656067" expanded="true" signature="417:870" ph="{...}" />
+                <marker date="1522575656067" expanded="true" signature="529:864" ph="{...}" />
+                <marker date="1522575656067" expanded="true" signature="946:1264" ph="{...}" />
+                <marker date="1522575656067" expanded="true" signature="1118:1138" ph="{...}" />
+                <marker date="1522575656067" expanded="true" signature="1191:1258" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Customer.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Vidly/Models/Customer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <marker date="1522577801313" expanded="true" signature="6:129" ph="..." />
+                <marker date="1522577801313" expanded="true" signature="153:488" ph="{...}" />
+                <marker date="1522577801313" expanded="true" signature="181:486" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MembershipType.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vidly/Models/MembershipType.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+              <folding>
+                <marker date="1522575899635" expanded="true" signature="45:273" ph="{...}" />
+                <marker date="1522575899635" expanded="true" signature="79:271" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Vidly/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -237,7 +376,6 @@
               <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
               <folding>
                 <marker date="1459734398000" expanded="false" signature="6:106" ph="..." />
-                <marker date="1459734398000" expanded="true" signature="135:571" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="182:569" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="224:271" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="308:424" ph="{...}" />
@@ -254,7 +392,6 @@
               <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
               <folding>
                 <marker date="1459734398000" expanded="false" signature="6:94" ph="..." />
-                <marker date="1459734398000" expanded="true" signature="123:842" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="175:840" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="215:316" ph="{...}" />
                 <marker date="1459734398000" expanded="true" signature="361:567" ph="{...}" />
@@ -276,27 +413,31 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Vidly/Models/MembershipType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Controllers/CustomersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Views/Movies/Random.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Models/IdentityModels.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Models/ManageViewModels.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Models/Customer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Migrations/Configuration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/ViewModels/RandomMovieViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/App_Start/FilterConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vidly/App_Start/BundleConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/App_Start/RouteConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vidly/Controllers/CustomersController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Controllers/ManageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Models/Movie.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Global.asax" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Controllers/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/packages.config" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vidly/Views/Movies/Random.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/Views/Shared/_NavBar.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vidly/Models/Customer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vidly/ViewModels/RandomMovieViewModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vidly/Web.config" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vidly/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vidly/App_Start/IdentityConfig.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vidly/App_Start/FilterConfig.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vidly/App_Start/BundleConfig.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -307,7 +448,6 @@
         <option value="$PROJECT_DIR$/Vidly/Content/bootstrap-lumen.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Vidly/App_Start/RouteConfig.cs" />
-        <option value="$PROJECT_DIR$/Vidly/Models/Customer.cs" />
         <option value="$PROJECT_DIR$/Vidly/ViewModels/RandomMovieViewModel.cs" />
         <option value="$PROJECT_DIR$/Vidly/Views/Movies/Random.cshtml" />
         <option value="$PROJECT_DIR$/Vidly/Views/Shared/_Layout.cshtml" />
@@ -315,6 +455,9 @@
         <option value="$PROJECT_DIR$/Vidly/Controllers/MoviesController.cs" />
         <option value="$PROJECT_DIR$/Vidly/Controllers/CustomersController.cs" />
         <option value="$PROJECT_DIR$/Vidly/App_Start/IdentityConfig.cs" />
+        <option value="$PROJECT_DIR$/Vidly/Models/IdentityModels.cs" />
+        <option value="$PROJECT_DIR$/Vidly/Models/MembershipType.cs" />
+        <option value="$PROJECT_DIR$/Vidly/Models/Customer.cs" />
       </list>
     </option>
   </component>
@@ -324,7 +467,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -347,6 +490,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -359,28 +503,25 @@
               <item name="Vidly (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Vidly" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Vidly (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Vidly" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Vidly/Content/bootstrap-lumen.min.css" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="bar&#9;ACTION&#9;ViewToolBar&#10;route&#9;FILE&#9;file://E:/Source/Repo/Vidly/Vidly/App_Start/RouteConfig.cs&#10;ig&#9;FILE&#9;file://E:/Source/Repo/Vidly/.gitignore&#10;.git&#9;FILE&#9;file://E:/Source/Repo/Vidly/.gitignore" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
+    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -429,7 +570,8 @@
       <workItem from="1522313638203" duration="10010000" />
       <workItem from="1522324020791" duration="395000" />
       <workItem from="1522325019314" duration="90000" />
-      <workItem from="1522572281182" duration="481000" />
+      <workItem from="1522572281182" duration="1867000" />
+      <workItem from="1522574969581" duration="2974000" />
     </task>
     <task id="LOCAL-00001" summary="change the css theme">
       <created>1522236216391</created>
@@ -501,11 +643,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522325054444</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Exercise 2">
+      <created>1522572793892</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1522572793892</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13104000" />
+    <option name="totallyTimeSpent" value="17464000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -517,19 +666,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22122905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22347629" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33295712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17110874" sideWeight="0.4956044" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3512035" sideWeight="0.4956044" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23741794" sideWeight="0.5043956" order="2" side_tool="true" content_ui="tabs" />
@@ -540,6 +688,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -583,52 +732,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Vidly/Views/Shared/_NavBar.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="0:841" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="57:834" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="89:512" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="129:390" ph="&lt;button.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="521:823" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="572:765" ph="&lt;ul.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vidly/Models/Movie.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vidly/App_Start/RouteConfig.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vidly/Views/Movies/Random.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vidly/Models/Customer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding>
-            <marker date="1459734398000" expanded="false" signature="6:29" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="204:225" ph="{...}" />
+            <marker date="1522577801313" expanded="true" signature="6:129" ph="..." />
+            <marker date="1522577801313" expanded="true" signature="153:488" ph="{...}" />
+            <marker date="1522577801313" expanded="true" signature="181:486" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -653,7 +764,6 @@
           <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding>
             <marker date="1459734398000" expanded="false" signature="6:106" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="135:571" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="182:569" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="224:271" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="308:424" ph="{...}" />
@@ -666,12 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="6:39" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="56:256" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="88:254" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="175:248" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -679,14 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="0:841" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="57:834" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="89:512" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="129:390" ph="&lt;button.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="521:823" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="572:765" ph="&lt;ul.../&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -694,7 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,7 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,7 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,8 +812,9 @@
         <state relative-caret-position="114">
           <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding>
-            <marker date="1459734398000" expanded="false" signature="6:29" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="204:225" ph="{...}" />
+            <marker date="1522577801313" expanded="true" signature="6:129" ph="..." />
+            <marker date="1522577801313" expanded="true" signature="153:488" ph="{...}" />
+            <marker date="1522577801313" expanded="true" signature="181:486" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -743,14 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="52" lean-forward="false" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="0:841" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="57:834" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="89:512" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="129:390" ph="&lt;button.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="521:823" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="572:765" ph="&lt;ul.../&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,9 +845,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
           <folding>
-            <marker date="1459734398000" expanded="true" signature="6:13" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="823:834" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="823:840" ph="{...}" />
+            <marker date="1459734398000" expanded="false" signature="6:94" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="175:840" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="215:316" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="361:567" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="621:834" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="682:823" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -772,7 +861,6 @@
           <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding>
             <marker date="1459734398000" expanded="false" signature="6:106" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="135:571" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="182:569" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="224:271" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="308:424" ph="{...}" />
@@ -785,12 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="6:39" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="56:256" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="88:254" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="175:248" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,7 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -813,7 +894,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding />
+          <folding>
+            <marker date="1459734398000" expanded="false" signature="6:99" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="177:1076" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="217:313" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="361:553" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="419:542" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="621:1070" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="748:870" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="938:1022" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -821,7 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -936,7 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -944,7 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -952,18 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vidly/Models/Customer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <marker date="1459734398000" expanded="false" signature="6:29" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="204:225" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -985,12 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="6:39" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="56:256" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="88:254" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="175:248" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1005,20 +1074,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <marker date="1459734398000" expanded="true" signature="0:841" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="57:834" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="89:512" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="129:390" ph="&lt;button.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="521:823" ph="&lt;div.../&gt;" />
-            <marker date="1459734398000" expanded="true" signature="572:765" ph="&lt;ul.../&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Vidly/Controllers/AccountController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1459734398000" expanded="false" signature="6:282" ph="..." />
@@ -1125,7 +1186,6 @@
           <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding>
             <marker date="1459734398000" expanded="false" signature="6:106" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="135:571" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="182:569" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="224:271" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="308:424" ph="{...}" />
@@ -1139,9 +1199,12 @@
         <state relative-caret-position="551">
           <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
           <folding>
-            <marker date="1459734398000" expanded="true" signature="6:13" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="823:834" ph="{...}" />
-            <marker date="1459734398000" expanded="true" signature="823:840" ph="{...}" />
+            <marker date="1459734398000" expanded="false" signature="6:94" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="175:840" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="215:316" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="361:567" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="621:834" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="682:823" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1150,7 +1213,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
+          <folding>
+            <marker date="1459734398000" expanded="false" signature="6:99" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="177:1076" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="217:313" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="361:553" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="419:542" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="621:1070" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="748:870" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="938:1022" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1160,7 +1232,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1459734398000" expanded="false" signature="6:224" ph="..." />
-            <marker date="1459734398000" expanded="true" signature="253:14054" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="318:14052" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="469:489" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="598:700" ph="{...}" />
@@ -1237,6 +1308,78 @@
             <marker date="1459734398000" expanded="true" signature="13541:13766" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="13653:13730" ph="{...}" />
             <marker date="1459734398000" expanded="true" signature="13803:14034" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vidly/Migrations/Configuration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522574120029" expanded="true" signature="26:1002" ph="{...}" />
+            <marker date="1522574120029" expanded="false" signature="39:140" ph="..." />
+            <marker date="1522574120029" expanded="true" signature="244:1000" ph="{...}" />
+            <marker date="1522574120029" expanded="true" signature="281:349" ph="{...}" />
+            <marker date="1522574120029" expanded="true" signature="430:994" ph="{...}" />
+            <marker date="1522574120029" expanded="true" signature="453:984" ph="/* This method will be called after migrating to the latest version. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vidly/Models/ManageViewModels.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1459734398000" expanded="false" signature="6:142" ph="..." />
+            <marker date="1459734398000" expanded="true" signature="200:459" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="499:649" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="683:739" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="778:1295" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="1337:2005" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="2047:2178" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="2223:2453" ph="{...}" />
+            <marker date="1459734398000" expanded="true" signature="2499:2646" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vidly/Models/IdentityModels.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1522575656067" expanded="false" signature="6:167" ph="..." />
+            <marker date="1522575656067" expanded="true" signature="191:1266" ph="{...}" />
+            <marker date="1522575656067" expanded="true" signature="417:870" ph="{...}" />
+            <marker date="1522575656067" expanded="true" signature="529:864" ph="{...}" />
+            <marker date="1522575656067" expanded="true" signature="946:1264" ph="{...}" />
+            <marker date="1522575656067" expanded="true" signature="1118:1138" ph="{...}" />
+            <marker date="1522575656067" expanded="true" signature="1191:1258" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vidly/Models/MembershipType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <marker date="1522575899635" expanded="true" signature="45:273" ph="{...}" />
+            <marker date="1522575899635" expanded="true" signature="79:271" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vidly/Models/Customer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1522577801313" expanded="true" signature="6:129" ph="..." />
+            <marker date="1522577801313" expanded="true" signature="153:488" ph="{...}" />
+            <marker date="1522577801313" expanded="true" signature="181:486" ph="{...}" />
           </folding>
         </state>
       </provider>
