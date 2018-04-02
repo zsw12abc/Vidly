@@ -1,4 +1,5 @@
-﻿@model Vidly.ViewModels.NewCustomerViewModel
+﻿@using System.Web.UI.WebControls
+@model Vidly.ViewModels.NewCustomerViewModel
 @{
     ViewBag.Title = "New";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -24,4 +25,5 @@
         @Html.LabelFor(m => m.Customer.MembershipTypeId)
         @Html.DropDownListFor(m => m.Customer.MembershipTypeId, new SelectList(Model.MembershipTypes, "Id", "Name"), "Select Membership Type", new {@class = "form-control"})
     </div>
+    <button type="submit" class="btn btn-primary"></button>
 }
