@@ -187,6 +187,14 @@
     <Compile Include="Migrations\202112050409141_AddMembershipType.designer.cs">
       <DependentUpon>202112050409141_AddMembershipType.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202112050500543_PopulateMembershipTypes.cs" />
+    <Compile Include="Migrations\202112050500543_PopulateMembershipTypes.designer.cs">
+      <DependentUpon>202112050500543_PopulateMembershipTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202112050515474_ApplyAnnotationsToCustomerName.cs" />
+    <Compile Include="Migrations\202112050515474_ApplyAnnotationsToCustomerName.designer.cs">
+      <DependentUpon>202112050515474_ApplyAnnotationsToCustomerName.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -203,6 +211,7 @@
     <Content Include="App_Data\aspnet-Vidly-20211205020219_log.ldf">
       <DependentUpon>aspnet-Vidly-20211205020219.mdf</DependentUpon>
     </Content>
+    <Content Include="App_Data\vidlyDatabase.db" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -284,6 +293,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202112050409141_AddMembershipType.resx">
       <DependentUpon>202112050409141_AddMembershipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202112050500543_PopulateMembershipTypes.resx">
+      <DependentUpon>202112050500543_PopulateMembershipTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202112050515474_ApplyAnnotationsToCustomerName.resx">
+      <DependentUpon>202112050515474_ApplyAnnotationsToCustomerName.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
